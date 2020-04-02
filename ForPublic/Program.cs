@@ -6,7 +6,7 @@ namespace ForPublic
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("New World!");
+            Console.WriteLine("New World 1!");
         }
     }
 }
